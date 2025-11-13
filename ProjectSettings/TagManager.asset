@@ -44,17 +44,23 @@ TagManager:
   - name: Ground
     uniqueID: 1543580909
     locked: 0
-  - name: Blanket
+  - name: WalkInFront
     uniqueID: 1194921041
     locked: 0
-  - name: Character
+  - name: Collision
+    uniqueID: 489468657
+    locked: 0
+  - name: CollisionInt
+    uniqueID: 170714111
+    locked: 0
+  - name: Player
     uniqueID: 2146495221
     locked: 0
-  - name: Border
+  - name: WalkBehind
     uniqueID: 2187706495
     locked: 0
-  - name: ObjectInteract
-    uniqueID: 489468657
+  - name: Decor
+    uniqueID: 1881907317
     locked: 0
   m_RenderingLayers:
   - Default
