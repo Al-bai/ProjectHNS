@@ -29,6 +29,5 @@ public class TowerStats : MonoBehaviour
     private void Die()
     {
         Debug.Log("TOWER DESTROYED!");
-        // Tambahkan animasi atau game over di sini
     }
 }

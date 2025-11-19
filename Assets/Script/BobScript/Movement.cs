@@ -28,7 +28,7 @@ public class Walk : MonoBehaviour
     {
         ProcessInput();
         Animate();
-        // Flip based on horizontal input
+       
         
     }
 
