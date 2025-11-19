@@ -7,6 +7,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
     
     private float timer;
     private bool isActive = false;
+
+    private UiManager uiManager;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,6 +19,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        uiManager.UpdateShieldTimer(timer);
         if (!isActive) return;
 
         timer -= Time.deltaTime;
@@ -27,19 +30,25 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     }
 
-    public void ActivateShield(float newDuration)
+    public void ActivateShield(float newDuration, UiManager ui)
     {
         duration = newDuration;
         timer = duration;
+        uiManager = ui;
 
         isActive = true;
         gameObject.SetActive(true);
+        uiManager.UpdateShieldStatus(true);
+        uiManager.UpdateShieldTimer(timer);
     }
 
     private void DeactivateShield()
     {
         isActive = false;
         gameObject.SetActive(false);
+
+        uiManager.UpdateShieldStatus(false);
+        uiManager.UpdateShieldTimer(0f);
     }
 
     private void OnTriggerStay2D(Collider2D other)
