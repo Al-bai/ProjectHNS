@@ -5252,7 +5252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shield: {fileID: 1149274127}
-  crystals: 1
+  crystals: 30
   shieldDuration: 8
   uiManager: {fileID: 1385955091}
 --- !u!1 &1288397557
