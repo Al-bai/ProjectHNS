@@ -340,7 +340,7 @@ TextureImporter:
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1082,10 +1082,10 @@ TextureImporter:
       name: TX Props_37
       rect:
         serializedVersion: 2
-        x: 164
-        y: 197
-        width: 25
-        height: 27
+        x: 54
+        y: 195
+        width: 18
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1104,10 +1104,10 @@ TextureImporter:
       name: TX Props_38
       rect:
         serializedVersion: 2
-        x: 227
-        y: 169
-        width: 26
-        height: 40
+        x: 164
+        y: 197
+        width: 25
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,10 +1126,10 @@ TextureImporter:
       name: TX Props_39
       rect:
         serializedVersion: 2
-        x: 288
-        y: 160
-        width: 32
-        height: 46
+        x: 227
+        y: 169
+        width: 26
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1148,10 +1148,10 @@ TextureImporter:
       name: TX Props_40
       rect:
         serializedVersion: 2
-        x: 96
-        y: 131
+        x: 288
+        y: 160
         width: 32
-        height: 49
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1170,10 +1170,10 @@ TextureImporter:
       name: TX Props_41
       rect:
         serializedVersion: 2
-        x: 165
-        y: 132
-        width: 21
-        height: 32
+        x: 56
+        y: 148
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1192,10 +1192,10 @@ TextureImporter:
       name: TX Props_42
       rect:
         serializedVersion: 2
-        x: 221
-        y: 110
-        width: 57
-        height: 42
+        x: 96
+        y: 131
+        width: 32
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1214,10 +1214,10 @@ TextureImporter:
       name: TX Props_43
       rect:
         serializedVersion: 2
-        x: 420
-        y: 104
-        width: 55
-        height: 49
+        x: 165
+        y: 132
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1236,10 +1236,10 @@ TextureImporter:
       name: TX Props_44
       rect:
         serializedVersion: 2
-        x: 3
-        y: 38
+        x: 221
+        y: 110
         width: 57
-        height: 44
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,10 +1258,10 @@ TextureImporter:
       name: TX Props_45
       rect:
         serializedVersion: 2
-        x: 121
-        y: 33
-        width: 80
-        height: 78
+        x: 420
+        y: 104
+        width: 55
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1280,10 +1280,10 @@ TextureImporter:
       name: TX Props_46
       rect:
         serializedVersion: 2
-        x: 10
-        y: 10
-        width: 11
-        height: 10
+        x: 3
+        y: 38
+        width: 57
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1302,10 +1302,10 @@ TextureImporter:
       name: TX Props_47
       rect:
         serializedVersion: 2
-        x: 40
-        y: 8
-        width: 16
-        height: 14
+        x: 121
+        y: 33
+        width: 80
+        height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1324,10 +1324,10 @@ TextureImporter:
       name: TX Props_48
       rect:
         serializedVersion: 2
-        x: 68
-        y: 6
-        width: 24
-        height: 19
+        x: 10
+        y: 10
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1346,10 +1346,10 @@ TextureImporter:
       name: TX Props_49
       rect:
         serializedVersion: 2
-        x: 100
-        y: 6
-        width: 24
-        height: 19
+        x: 40
+        y: 8
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1368,10 +1368,10 @@ TextureImporter:
       name: TX Props_50
       rect:
         serializedVersion: 2
-        x: 130
+        x: 68
         y: 6
-        width: 27
-        height: 22
+        width: 24
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1390,10 +1390,10 @@ TextureImporter:
       name: TX Props_51
       rect:
         serializedVersion: 2
-        x: 162
-        y: 3
-        width: 27
-        height: 27
+        x: 100
+        y: 6
+        width: 24
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1412,10 +1412,10 @@ TextureImporter:
       name: TX Props_52
       rect:
         serializedVersion: 2
-        x: 231
-        y: 7
-        width: 18
-        height: 16
+        x: 130
+        y: 6
+        width: 27
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1434,10 @@ TextureImporter:
       name: TX Props_53
       rect:
         serializedVersion: 2
-        x: 263
-        y: 8
-        width: 19
-        height: 16
+        x: 162
+        y: 3
+        width: 27
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,10 +1456,10 @@ TextureImporter:
       name: TX Props_54
       rect:
         serializedVersion: 2
-        x: 289
+        x: 231
         y: 7
-        width: 31
-        height: 19
+        width: 18
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1470,6 +1470,50 @@ TextureImporter:
       bones: []
       spriteID: 2eb795137fa4e0710800000000000000
       internalID: 1661347738091617250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeda090e5c5b8f459f3cae9500ff255
+      internalID: 1490078638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 7
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b000a9438edc03645a669213b8c42582
+      internalID: 1173493133
       vertices: []
       indices: 
       edges: []
@@ -1539,6 +1583,8 @@ TextureImporter:
       TX Props_52: 1435152747246214799
       TX Props_53: -6675287661300316775
       TX Props_54: 1661347738091617250
+      TX Props_55: 1490078638
+      TX Props_56: 1173493133
       TX Props_6: -1264371203132490004
       TX Props_7: 5149286634510447697
       TX Props_8: -3680518950676972392
