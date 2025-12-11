@@ -52,6 +52,9 @@ TagManager:
   - name: Collision
     uniqueID: 489468657
     locked: 0
+  - name: Wall
+    uniqueID: 2322321739
+    locked: 0
   - name: CollisionInt
     uniqueID: 170714111
     locked: 0
